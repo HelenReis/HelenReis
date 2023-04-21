@@ -1,6 +1,6 @@
-### Hi 👋
+### Hi there 👋
 
-I'm Helen Reis, I'm a Backend Developer at dti digital, and I've been working in tech since 2019.
+I'm Helen Reis - a Backend Developer who is passionate about working with Web APIs. With over 3 years of experience in the tech industry, I'm eager to learn and collaborate with others.
 
 ## :rocket: Technologies
 
