@@ -17,5 +17,3 @@ These are some of the technologies and tools that I work or already worked with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-blueviolet?style=flat-square&logo=visual-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[![Helen's github stats](https://github-readme-stats.vercel.app/api?username=HelenReis&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
