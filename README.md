@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Helen Reis - a Backend Developer who is passionate about working with Web APIs. With over 3 years of experience in the tech industry, I'm eager to learn and collaborate with others.</h1>
+<h1 align="center">Hi 👋, I'm I'm Helen Reis - a Backend Developer who is passionate about working with Web APIs. I'm eager to learn and collaborate with others.</h1>
 - 🌱 I’m currently learning **Go, Kotlin and AWS cloud**
 
 - 💬 Ask me about **c#, apis, .net, azure, backend**
